@@ -1,2 +1,5 @@
 Hello World
+<<<<<<< HEAD
 Amulya U Naik
+=======
+>>>>>>> branch2
